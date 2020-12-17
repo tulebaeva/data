@@ -1,6 +1,6 @@
 Author
 Date
 Headlines
-Read_more
+Read more
 Text
-Ctext
+Сtext
